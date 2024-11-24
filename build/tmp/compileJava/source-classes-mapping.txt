@@ -1,0 +1,44 @@
+me/solarlego/uhc/uhc/CustomShaped.java
+ me.solarlego.uhc.uhc.CustomShaped
+me/solarlego/uhc/uhc/EnchantPair.java
+ me.solarlego.uhc.uhc.EnchantPair
+me/solarlego/uhc/commands/CommandPlay.java
+ me.solarlego.uhc.commands.CommandPlay
+me/solarlego/uhc/uhc/PlayerInfo.java
+ me.solarlego.uhc.uhc.PlayerInfo
+me/solarlego/uhc/uhc/Dummy.java
+ me.solarlego.uhc.uhc.Dummy
+me/solarlego/uhc/gui/kits/KitsGUI.java
+ me.solarlego.uhc.gui.kits.KitsGUI
+me/solarlego/uhc/commands/CommandParty.java
+ me.solarlego.uhc.commands.CommandParty
+me/solarlego/uhc/commands/CommandGame.java
+ me.solarlego.uhc.commands.CommandGame
+me/solarlego/uhc/gui/PlayGUI.java
+ me.solarlego.uhc.gui.PlayGUI
+me/solarlego/uhc/gui/kits/LooterGUI.java
+ me.solarlego.uhc.gui.kits.LooterGUI
+me/solarlego/uhc/uhc/CustomCrafts.java
+ me.solarlego.uhc.uhc.CustomCrafts
+ me.solarlego.uhc.uhc.MaterialAmountPair
+ me.solarlego.uhc.uhc.MaterialValuePair
+me/solarlego/uhc/Scoreboard.java
+ me.solarlego.uhc.Scoreboard
+me/solarlego/uhc/gui/kits/StoneToolsGUI.java
+ me.solarlego.uhc.gui.kits.StoneToolsGUI
+me/solarlego/uhc/gui/CraftGUI.java
+ me.solarlego.uhc.gui.CraftGUI
+me/solarlego/uhc/gui/TeamGUI.java
+ me.solarlego.uhc.gui.TeamGUI
+me/solarlego/uhc/gui/kits/ArcherGUI.java
+ me.solarlego.uhc.gui.kits.ArcherGUI
+me/solarlego/uhc/gui/RecipesGUI.java
+ me.solarlego.uhc.gui.RecipesGUI
+me/solarlego/uhc/UHC.java
+ me.solarlego.uhc.UHC
+me/solarlego/uhc/uhc/UHCEvents.java
+ me.solarlego.uhc.uhc.UHCEvents
+me/solarlego/uhc/uhc/UHCGame.java
+ me.solarlego.uhc.uhc.UHCGame
+ me.solarlego.uhc.uhc.UHCGame$1
+ me.solarlego.uhc.uhc.UHCGame$2
